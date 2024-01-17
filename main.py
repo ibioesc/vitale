@@ -10,12 +10,14 @@ from .connections.directoryActive import authenticateLdapUser
 import base64
 import pandas as pd
 from .direcciones import test_API
-from .connections.postgresql import consulta_paciente,consulta_registro,create_pacientes_upload,update_cita
+from .connections.postgresql import consulta_paciente,consulta_registro,create_pacientes_upload,update_cita,create_usuarios,consulta_tipo_identificacion
 # from .sura import pruebas_datos
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi_jwt_auth import AuthJWT
 import csv
 import os
+import logging
+from connections.radius import radiu
 
 
 
@@ -32,6 +34,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 5
 class Token(BaseModel):
     access_token: str
     token_type: str
+    respues_usuario :str
 
 
 
@@ -66,6 +69,12 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 app = FastAPI()
 
+logging.basicConfig(
+    filename='app.log',  # Puedes cambiar el nombre del archivo según tus preferencias
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    level=logging.INFO  # Puedes cambiar el nivel de registro según tus necesidades (INFO, DEBUG, ERROR, etc.)
+)
+
 origins = [
     "http://localhost:4200",
     "http://localhost:8080",
@@ -89,6 +98,7 @@ def credentials_exception ():
         detail="Could not validate credentials",
         headers={"WWW-Authenticate": "Bearer"},
     )
+        logging.error(f"Could not validate credentials")
         return credentials_excepti
 
 
@@ -143,14 +153,14 @@ async def get_current_user(upload : Upload,token: Annotated[str, Depends(oauth2_
         df = pd.read_excel('./document/mymessage.xls')
         df = test_API(df)
         df = df.rename(columns={'Zona':'zona',
-                                'Tipo Identificación Paciente':'tipo_identificacion',
+                                'Tipo Identificación Paciente':'id_tipo_identificacion',
                                 'Identificación Paciente':'identificacion',
                                 'Nombre Paciente':'nombre',
                                 'Plan de Salud':'plan_salud',
                                             'Direccion Paciente':'direccion_original',
                                             'Teléfono Paciente': 'telefono',
                                             'Piso Paciente':'piso',
-                                            'Municipio':'municipio',
+                                            'Municipio':'id_municipio',
                                             'Medicamento':'medicamento',
                                             'Fecha de nacimiento paciente':'fecha_nace',
                                             'Sexo paciente':'genero',
@@ -158,7 +168,7 @@ async def get_current_user(upload : Upload,token: Annotated[str, Depends(oauth2_
                                             'Fecha Inicio Cita':'fecha'
                                             })   
         columna_paciente = [
-            'tipo_identificacion',
+            'id_tipo_identificacion',
             'identificacion',
             'direccion_original',
             'direccion',
@@ -167,7 +177,7 @@ async def get_current_user(upload : Upload,token: Annotated[str, Depends(oauth2_
             'piso',
             'plan_salud',
             'tratamiento',
-            'municipio',
+            'id_municipio',
             'nombre',
             'medicamento',
             'fecha_nace',
@@ -220,7 +230,12 @@ async def login_for_access_token(
     form_data: Annotated[OAuth2PasswordRequestForm, Depends()]
 ):
     # user = authenticate_user(fake_users_db, form_data.username, form_data.password)
-    user = authenticateLdapUser(form_data.username, form_data.password)
+    
+    # user = authenticateLdapUser(form_data.username, form_data.password)
+    
+    user = radiu(form_data.username, form_data.password, form_data.client_secret)
+    logging.info(f"El usuario {form_data.username} accedio a la ruta principal")
+    _ = create_usuarios(form_data.username)
     password = get_password_hash(form_data.password)
     if not user:
         raise HTTPException(
@@ -232,7 +247,10 @@ async def login_for_access_token(
     access_token = create_access_token(
         data={"sub":form_data.username}, expires_delta=access_token_expires
     )
-    res = {"access_token": access_token, "token_type": "bearer"}
+    
+    
+    respues_usuario = consulta_paciente('ibio.escobar@arus.com.co')
+    res = {"access_token": access_token, "token_type": "bearer", "respues_usuario": str(respues_usuario)}
     return res
 
 
@@ -282,7 +300,7 @@ async def expor_file(token: Annotated[str, Depends(oauth2_scheme)]):
         username: str = payload.get("sub")
         if username is None:
             raise credentials_exception()
-        p,r,resultados_persona = consulta_registro()
+        _,_,resultados_persona,_ = consulta_registro()
         list_resul = []
         for  resul in resultados_persona:
                 list_resul.append({

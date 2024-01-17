@@ -1,0 +1,1055 @@
+2024-01-10 10:31:08,411 - INFO - Se accedió a la ruta principal
+2024-01-10 10:34:44,709 - INFO - El usuarioibio.escobar@arus.com.co accedió a la ruta principal
+2024-01-10 10:35:42,753 - INFO - El usuario ibio.escobar@arus.com.co accedió a la ruta principal
+2024-01-10 10:37:11,502 - INFO - El usuario ibio.escobar@arus.com.co accedió a la ruta principal
+2024-01-10 13:48:57,281 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 13:56:19,099 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 14:11:05,738 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 14:17:36,752 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 14:23:22,876 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 14:43:40,664 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 15:00:46,063 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 15:01:18,298 - ERROR - Error de consulta name 'tbl_citas' is not defined
+2024-01-10 15:02:42,883 - ERROR - Error de consulta: name 'tbl_citas' is not defined
+2024-01-10 15:47:27,507 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 15:47:33,287 - ERROR - Could not validate credentials
+2024-01-10 16:08:09,950 - INFO - Could not validate credentials
+2024-01-10 16:11:25,301 - ERROR - Could not validate credentials
+2024-01-10 16:15:50,336 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 16:16:08,041 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:09,418 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:09,934 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:10,716 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:11,250 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:12,085 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:12,597 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:13,515 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:14,030 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:14,680 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:15,196 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:15,965 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:16,485 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:18,026 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:18,526 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:19,385 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:19,858 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:20,683 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:21,023 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:21,756 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:22,180 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:23,048 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:23,437 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:24,181 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:24,675 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:25,486 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:26,110 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:16:27,136 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:16:27,791 - ERROR - Error ingresar pacientes upload: too many values to unpack (expected 2)
+2024-01-10 16:18:47,641 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:48,547 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:48,912 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:49,878 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:50,245 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:51,004 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:51,424 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:52,233 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:52,639 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:53,460 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:53,940 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:54,588 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:54,887 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:55,595 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:56,120 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:56,940 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:57,440 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:58,267 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:58,683 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:18:59,442 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:18:59,916 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:00,732 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:01,240 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:02,580 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:03,084 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:03,750 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:04,298 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:05,198 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:05,332 - ERROR - Error ingresar pacientes upload: too many values to unpack (expected 2)
+2024-01-10 16:19:33,905 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:34,824 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:35,340 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:36,022 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:36,382 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:37,175 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:37,694 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:38,613 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:38,958 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:39,847 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:40,348 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:41,052 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:41,402 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:42,199 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:42,571 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:43,428 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:43,775 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:44,568 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:44,907 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:46,298 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:46,602 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:47,416 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:47,830 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:48,571 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:48,908 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:49,481 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:19:49,817 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:19:51,106 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:20:19,988 - ERROR - Error ingresar pacientes upload: too many values to unpack (expected 2)
+2024-01-10 16:21:20,657 - ERROR - Could not validate credentials
+2024-01-10 16:21:35,643 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 16:21:53,171 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:21:54,691 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:21:55,008 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:21:55,917 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:21:56,272 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:21:57,598 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:21:57,972 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:21:58,897 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:21:59,320 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:00,119 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:00,445 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:01,367 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:01,877 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:02,683 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:03,199 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:04,115 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:04,736 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:05,647 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:05,946 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:06,908 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:07,401 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:08,420 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:08,932 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:09,725 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:10,159 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:10,946 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:22:11,391 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:22:12,522 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:23:43,448 - ERROR - Error ingresar pacientes upload: too many values to unpack (expected 2)
+2024-01-10 16:24:10,369 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:11,426 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:11,920 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:12,848 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:13,229 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:14,074 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:14,378 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:15,211 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:15,706 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:16,477 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:16,941 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:17,885 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:18,226 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:19,088 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:19,607 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:20,523 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:21,030 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:21,848 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:22,253 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:23,083 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:23,598 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:24,616 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:25,129 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:26,512 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:26,938 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:27,717 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:24:28,069 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:24:29,263 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:26:58,599 - ERROR - Could not validate credentials
+2024-01-10 16:27:39,303 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-10 16:27:55,894 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:27:57,012 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:27:57,493 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:27:58,241 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:27:58,635 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:27:59,474 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:27:59,975 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:00,883 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:01,312 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:01,988 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:02,422 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:03,121 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:03,607 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:04,487 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:05,003 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:05,902 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:06,227 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:07,257 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:07,768 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:08,683 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:09,068 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:10,124 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:10,636 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:11,764 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:12,272 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:12,996 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:13,502 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-10 16:28:14,528 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-10 16:28:57,012 - ERROR - Error ingresar pacientes upload: (psycopg2.errors.InvalidSchemaName) schema "sch_vitale" does not exist
+LINE 2: CREATE TABLE sch_vitale.tbl_pacientes (
+                     ^
+
+[SQL: 
+CREATE TABLE sch_vitale.tbl_pacientes (
+	tipo_identificacion TEXT, 
+	identificacion BIGINT, 
+	direccion_original TEXT, 
+	direccion TEXT, 
+	telefono TEXT, 
+	zona TEXT, 
+	piso TEXT, 
+	plan_salud TEXT, 
+	tratamiento TEXT, 
+	municipio TEXT, 
+	nombre TEXT, 
+	medicamento FLOAT(53), 
+	fecha_nace TEXT, 
+	genero TEXT, 
+	barrio TEXT, 
+	depto TEXT
+)
+
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-01-12 13:26:48,012 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 13:29:14,348 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:20:09,615 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:24:24,109 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:27:12,403 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:28:11,291 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:29:35,081 - ERROR - Error de ingreso pacientes: Unconsumed column names: fecha_conexion, conectado, email
+2024-01-12 18:30:25,135 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:30:25,488 - ERROR - Error de ingreso pacientes: Unconsumed column names: fecha_conexion, conectado, email
+2024-01-12 18:30:37,148 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:34:58,972 - ERROR - Error de ingreso pacientes: Unconsumed column names: fecha_conexion, conectado, email
+2024-01-12 18:36:58,360 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:38:22,591 - ERROR - Error de ingreso pacientes: Unconsumed column names: fecha_conexion, conectado, email
+2024-01-12 18:38:27,527 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:44:26,491 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:44:51,034 - ERROR - Error de ingreso pacientes: Unconsumed column names: conectado, fecha_conexion, email
+2024-01-12 18:44:58,126 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:45:10,348 - ERROR - Error de ingreso pacientes: Unconsumed column names: conectado, fecha_conexion, email
+2024-01-12 18:46:26,309 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:46:38,223 - ERROR - Error de ingreso pacientes: Unconsumed column names: fecha_conexion, conectado, email
+2024-01-12 18:49:37,597 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:58:26,238 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:58:28,041 - ERROR - Error de ingreso pacientes: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "tbl_usuarios_pkey"
+DETAIL:  Key (email)=(ibio.escobar@arus.com.cood) already exists.
+
+[SQL: INSERT INTO sch_vitale.tbl_usuarios (email, nombre, estado, fecha_conexion, conectado) VALUES (%(email)s, %(nombre)s, %(estado)s, %(fecha_conexion)s, %(conectado)s)]
+[parameters: {'email': 'ibio.escobar@arus.com.cood', 'nombre': 'ibio antonio escobar', 'estado': True, 'fecha_conexion': datetime.datetime(2024, 1, 12, 18, 58, 26, 509068), 'conectado': True}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-01-12 18:58:46,312 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:58:47,287 - ERROR - Error de ingreso pacientes: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "tbl_usuarios_pkey"
+DETAIL:  Key (email)=(ibio.escobar@arus.com.cood) already exists.
+
+[SQL: INSERT INTO sch_vitale.tbl_usuarios (email, nombre, estado, fecha_conexion, conectado) VALUES (%(email)s, %(nombre)s, %(estado)s, %(fecha_conexion)s, %(conectado)s)]
+[parameters: {'email': 'ibio.escobar@arus.com.cood', 'nombre': 'ibio antonio escobar', 'estado': True, 'fecha_conexion': datetime.datetime(2024, 1, 12, 18, 58, 46, 437343), 'conectado': True}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-01-12 18:59:01,998 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-12 18:59:47,075 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 11:29:06,947 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 11:31:13,672 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 11:32:16,390 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 11:32:59,275 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 11:48:03,439 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 11:49:41,547 - ERROR - Error de ingreso pacientes: subject table for an INSERT, UPDATE or DELETE expected, got 'tbl_usuarios'.
+2024-01-15 11:53:57,769 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:09:40,805 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:09:41,515 - ERROR - Error de ingreso pacientes: subject table for an INSERT, UPDATE or DELETE expected, got 'tbl_usuarios'.
+2024-01-15 12:11:12,903 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:12:28,319 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:19:38,755 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:22:03,372 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:24:35,238 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:27:11,083 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 12:28:25,140 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 15:51:39,208 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 15:57:55,967 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:08:24,009 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:10:42,691 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:15:09,783 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:18:10,815 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:19:32,369 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:28:10,435 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:31:52,011 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:35:03,192 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:38:28,963 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:39:00,391 - ERROR - Error de consulta: Column expression, FROM clause, or other columns clause element expected, got [Table('tbl_permisos_usuarios', MetaData(), Column('ID', INTEGER(), table=<tbl_permisos_usuarios>, primary_key=True, nullable=False, server_default=DefaultClause(<sqlalchemy.sql.elements.TextClause object at 0x0000023CF2FC5820>, for_update=False)), Column('id_usuario', VARCHAR(length=100), ForeignKey('sch_vitale.tbl_usuarios.email'), table=<tbl_permisos_usuarios>), Column('id_permiso', INTEGER(), ForeignKey('sch_vitale.tbl_permisos.ID'), table=<tbl_permisos_usuarios>), Column('estado', BOOLEAN(), table=<tbl_permisos_usuarios>), schema='sch_vitale'), Table('tbl_usuarios', MetaData(), Column('email', VARCHAR(length=100), table=<tbl_usuarios>, primary_key=True, nullable=False), Column('nombre', VARCHAR(length=100), table=<tbl_usuarios>), Column('estado', BOOLEAN(), table=<tbl_usuarios>, nullable=False), Column('fecha_conexion', DATE(), table=<tbl_usuarios>, nullable=False), Column('conectado', BOOLEAN(), table=<tbl_usuarios>, nullable=False), schema='sch_vitale')]. Did you mean to say select(Table('tbl_permisos_usuarios', MetaData(), Column('ID', INTEGER(), table=<tbl_permisos_usuarios>, primary_key=True, nullable=False, server_default=DefaultClause(<sqlalchemy.sql.elements.TextClause object at 0x0000023CF2FC5820>, for_update=False)), Column('id_usuario', VARCHAR(length=100), ForeignKey('sch_vitale.tbl_usuarios.email'), table=<tbl_permisos_usuarios>), Column('id_permiso', INTEGER(), ForeignKey('sch_vitale.tbl_permisos.ID'), table=<tbl_permisos_usuarios>), Column('estado', BOOLEAN(), table=<tbl_permisos_usuarios>), schema='sch_vitale'), Table('tbl_usuarios', MetaData(), Column('email', VARCHAR(length=100), table=<tbl_usuarios>, primary_key=True, nullable=False), Column('nombre', VARCHAR(length=100), table=<tbl_usuarios>), Column('estado', BOOLEAN(), table=<tbl_usuarios>, nullable=False), Column('fecha_conexion', DATE(), table=<tbl_usuarios>, nullable=False), Column('conectado', BOOLEAN(), table=<tbl_usuarios>, nullable=False), schema='sch_vitale'))?
+2024-01-15 16:40:21,285 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 16:50:01,599 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-15 17:03:02,361 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 07:36:55,685 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 07:39:41,522 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 07:40:45,077 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 08:15:31,115 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 08:17:47,848 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 08:17:59,489 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 08:18:32,503 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 08:19:13,044 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 10:14:25,469 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 10:14:49,892 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:50,820 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:51,309 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:52,041 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:52,442 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:53,167 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:53,662 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:54,455 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:54,895 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:55,593 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:56,084 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:56,824 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:57,246 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:57,947 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:58,421 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:14:59,429 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:14:59,935 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:15:01,312 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:15:01,747 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:15:02,516 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:15:02,997 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:15:03,993 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:15:04,710 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:15:05,587 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:15:06,057 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:15:06,765 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:15:07,239 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:15:08,244 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:21,639 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:22,703 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:23,042 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:23,888 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:25,006 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:25,811 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:26,181 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:27,149 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:27,546 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:28,279 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:28,654 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:29,378 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:29,839 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:30,597 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:30,962 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:31,768 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:32,256 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:33,140 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:33,566 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:34,394 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:34,983 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:36,249 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:36,874 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:37,661 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:38,150 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:38,773 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:18:39,264 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:18:41,153 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:27:53,436 - ERROR - Could not validate credentials
+2024-01-16 10:28:05,309 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 10:28:24,190 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:25,193 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:25,679 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:26,530 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:26,936 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:27,815 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:28,308 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:29,894 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:30,375 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:31,134 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:31,621 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:32,337 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:32,761 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:33,619 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:34,113 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:34,977 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:35,500 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:36,341 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:36,740 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:37,593 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:38,075 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:38,977 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:39,489 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:40,777 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:41,302 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:42,523 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:28:42,968 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:28:44,062 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:29:56,072 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:29:57,492 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:29:57,895 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:29:58,700 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:29:59,100 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:29:59,962 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:00,407 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:03,183 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:03,762 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:09,131 - ERROR - Status code Unknown from https://nominatim.openstreetmap.org/search: ERROR - HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=5.0)
+2024-01-16 10:30:09,641 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:10,503 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:10,930 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:13,086 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:13,450 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:15,059 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:15,575 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:16,467 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:16,905 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:17,690 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:18,137 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:19,033 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:19,553 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:20,446 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:20,832 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:21,465 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:30:21,891 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:30:22,837 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:42:32,923 - ERROR - Could not validate credentials
+2024-01-16 10:43:10,334 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 10:43:21,282 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 10:43:59,157 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:00,092 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:00,588 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:01,427 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:01,829 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:02,703 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:03,190 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:04,104 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:04,606 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:05,396 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:05,885 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:06,642 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:07,120 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:07,930 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:08,418 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:09,221 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:09,796 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:10,674 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:11,086 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:11,855 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:12,306 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:13,150 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:13,653 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:14,489 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:15,039 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:15,725 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:16,201 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 10:44:17,369 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 10:44:41,243 - ERROR - Error ingresar pacientes upload: (psycopg2.errors.UndefinedColumn) column "tipo_identificacion" of relation "tbl_pacientes" does not exist
+LINE 1: INSERT INTO sch_vitale.tbl_pacientes (tipo_identificacion, i...
+                                              ^
+
+[SQL: INSERT INTO sch_vitale.tbl_pacientes (tipo_identificacion, identificacion, direccion_original, direccion, telefono, zona, piso, plan_salud, tratamiento, municipio, nombre, medicamento, fecha_nace, genero, barrio, depto) VALUES (%(tipo_identificacion_ ... 4083 characters truncated ... ombre__13)s, %(medicamento__13)s, %(fecha_nace__13)s, %(genero__13)s, %(barrio__13)s, %(depto__13)s)]
+[parameters: {'direccion_original__0': 'calle 11 A, 51-09 casa 16 , unidad fuentes de Camino real , etapa 4,', 'medicamento__0': None, 'identificacion__0': 31238269, 'tratamiento__0': 'Citas médicas Ingreso telemedicina ', 'telefono__0': '3173734749  3206785775  ', 'fecha_nace__0': '1952-06-11 00:00:00', 'plan_salud__0': 'POS', 'genero__0': 'F', 'nombre__0': 'TERESA DE JESUS CARDONA SALAZAR', 'direccion__0': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'barrio__0': 'bello', 'municipio__0': 'CALI', 'piso__0': 'Piso Sur', 'tipo_identificacion__0': 'CC', 'depto__0': 'bello', 'zona__0': 'MEDICINA TLM', 'direccion_original__1': 'Calle 15 # 61A ¿ 16, Apartamento: 101, Torre: 78, Unidad: Pedro Elías Serrano,', 'medicamento__1': None, 'identificacion__1': 31978968, 'tratamiento__1': 'Citas médicas Valoración médica control ', 'telefono__1': '3156668517  3156668517  ', 'fecha_nace__1': '1968-04-18 00:00:00', 'plan_salud__1': 'POS', 'genero__1': 'F', 'nombre__1': 'MIRIAN GERLAINE RESTREPO GOMEZ', 'direccion__1': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'barrio__1': 'bello', 'municipio__1': 'CALI', 'piso__1': 'Piso Sur', 'tipo_identificacion__1': 'CC', 'depto__1': 'bello', 'zona__1': 'MEDICINA TLM', 'direccion_original__2': 'Calle 17 # 47B ¿ 03', 'medicamento__2': None, 'identificacion__2': 832515, 'tratamiento__2': 'Citas médicas Valoración médica control ', 'telefono__2': '3058787043  3058787043  ', 'fecha_nace__2': '1994-06-11 00:00:00', 'plan_salud__2': 'POS', 'genero__2': 'F', 'nombre__2': 'WINIFER CAROLAY TOVAR OSUNA', 'direccion__2': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'barrio__2': 'bello', 'municipio__2': 'CALI', 'piso__2': 'Piso Centro', 'tipo_identificacion__2': 'PT', 'depto__2': 'bello', 'zona__2': 'MEDICINA TLM', 'direccion_original__3': 'CRA 43 # 10-50 APTO:401', 'medicamento__3': None ... 124 parameters truncated ... 'depto__10': 'bello', 'zona__10': 'MEDICINA TLM', 'direccion_original__11': 'CALLE 46A # 1E -21 APTO 301 EDIFICIO DE LADRILLOS', 'medicamento__11': None, 'identificacion__11': 1144104481, 'tratamiento__11': 'Citas médicas Revision telemedicina ', 'telefono__11': '3186901564  3168695246  ', 'fecha_nace__11': '1998-10-03 00:00:00', 'plan_salud__11': 'POS', 'genero__11': 'F', 'nombre__11': 'DEISY DANIELA GOMEZ GOMEZ', 'direccion__11': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'barrio__11': 'bello', 'municipio__11': 'CALI', 'piso__11': 'Piso Norte', 'tipo_identificacion__11': 'CC', 'depto__11': 'bello', 'zona__11': 'MEDICINA TLM', 'direccion_original__12': 'CALLE 23D N #5AN -62 SAN VICENTE APRTAMENTO 503', 'medicamento__12': None, 'identificacion__12': 79482319, 'tratamiento__12': 'Citas médicas Valoración médica egreso ', 'telefono__12': '3024639494  3174708263  3174708263', 'fecha_nace__12': '1969-02-24 00:00:00', 'plan_salud__12': 'POS', 'genero__12': 'M', 'nombre__12': 'GERMAN  GARCIA JARAMILLO', 'direccion__12': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'barrio__12': 'bello', 'municipio__12': 'CALI', 'piso__12': 'Piso CHER', 'tipo_identificacion__12': 'CC', 'depto__12': 'bello', 'zona__12': 'MEDICINA TLM', 'direccion_original__13': 'CALLE 3 # 14 - 52', 'medicamento__13': None, 'identificacion__13': 16692872, 'tratamiento__13': 'Citas médicas Valoración médica egreso ', 'telefono__13': '3753163  3164814490  ', 'fecha_nace__13': '1963-06-21 00:00:00', 'plan_salud__13': 'POS', 'genero__13': 'M', 'nombre__13': 'JUAN CARLOS VIDARTE VICTORIA', 'direccion__13': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'barrio__13': 'bello', 'municipio__13': 'CALI', 'piso__13': 'Piso CHER', 'tipo_identificacion__13': 'CC', 'depto__13': 'bello', 'zona__13': 'MEDICINA TLM'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-01-16 11:16:56,780 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:17:40,024 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:41,409 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:41,901 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:42,572 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:42,977 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:44,318 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:44,812 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:45,654 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:46,128 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:46,812 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:47,293 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:47,923 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:48,319 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:49,044 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:49,526 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:51,262 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:51,771 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:52,451 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:52,878 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:53,547 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:53,994 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:54,798 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:55,247 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:55,915 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:56,403 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:56,994 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:17:57,456 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:17:58,251 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:19,878 - ERROR - Could not validate credentials
+2024-01-16 11:22:22,036 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:22:40,474 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:41,967 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:42,444 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:43,319 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:43,765 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:44,506 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:45,111 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:45,996 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:46,457 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:47,279 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:47,793 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:48,577 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:49,003 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:50,276 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:50,755 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:51,527 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:52,037 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:52,840 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:53,223 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:53,997 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:54,488 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:55,385 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:55,822 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:56,523 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:57,018 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:57,750 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:22:58,226 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:22:59,253 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:10,461 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:11,315 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:11,693 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:12,593 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:12,996 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:14,618 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:15,098 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:15,994 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:16,486 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:17,231 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:17,726 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:18,502 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:18,983 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:20,314 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:20,669 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:21,507 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:21,998 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:22,828 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:23,271 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:24,053 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:24,388 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:25,541 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:25,923 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:26,753 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:27,211 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:27,844 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:25:28,231 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:25:29,237 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:27:43,726 - ERROR - Could not validate credentials
+2024-01-16 11:27:53,395 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:28:22,709 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:23,564 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:24,069 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:24,771 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:25,177 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:25,944 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:26,298 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:27,139 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:27,607 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:28,280 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:28,772 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:30,148 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:30,626 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:32,081 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:32,602 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:33,382 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:33,890 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:34,657 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:35,084 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:35,870 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:36,336 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:37,153 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:37,602 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:38,308 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:38,781 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:39,389 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:28:39,831 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:28:40,739 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:45,789 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:46,561 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:46,911 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:47,639 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:48,034 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:48,736 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:49,129 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:49,883 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:50,327 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:50,986 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:51,358 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:52,127 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:52,577 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:53,270 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:53,758 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:54,706 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:56,060 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:56,801 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:57,271 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:58,096 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:58,466 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:29:59,361 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:29:59,852 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:30:00,573 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:30:01,145 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:30:02,552 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:30:03,003 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:30:04,228 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:24,167 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:25,330 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:25,854 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:26,651 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:27,065 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:27,859 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:28,306 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:29,171 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:29,639 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:30,969 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:31,325 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:32,012 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:32,411 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:33,190 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:33,645 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:34,456 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:34,986 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:35,819 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:36,227 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:37,062 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:37,520 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:38,596 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:38,954 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:39,709 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:40,275 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:40,911 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:41,307 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:31:42,404 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:31:50,496 - ERROR - Error ingresar pacientes upload: 'tipo_identificacion'
+2024-01-16 11:32:19,615 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:20,593 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:21,099 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:22,627 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:23,044 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:23,843 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:24,364 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:25,181 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:25,555 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:26,319 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:26,765 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:27,601 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:28,034 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:28,788 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:29,195 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:30,689 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:31,031 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:31,989 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:32,365 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:33,166 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:33,535 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:34,456 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:34,928 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:35,687 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:36,187 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:36,806 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:32:37,284 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:32:38,320 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:07,863 - ERROR - Could not validate credentials
+2024-01-16 11:33:18,209 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:33:39,349 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:40,368 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:40,759 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:42,160 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:42,533 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:43,396 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:43,859 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:44,858 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:45,292 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:46,130 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:46,609 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:48,260 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:48,643 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:49,408 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:49,883 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:50,724 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:51,208 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:52,172 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:52,552 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:53,311 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:53,798 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:54,677 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:55,208 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:55,943 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:56,300 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:57,013 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:33:57,456 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:33:58,497 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:02,927 - ERROR - Could not validate credentials
+2024-01-16 11:41:17,734 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:41:52,497 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:41:53,293 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:53,803 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:41:54,543 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:54,927 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:41:55,606 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:56,090 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:41:56,911 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:57,359 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:41:58,002 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:58,490 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:41:59,161 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:41:59,615 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:00,426 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:00,933 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:01,630 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:02,165 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:02,872 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:03,297 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:04,064 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:04,524 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:05,942 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:06,360 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:07,212 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:07,656 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:08,283 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:08,773 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:42:09,718 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:42:34,471 - ERROR - Error ingresar pacientes upload: (psycopg2.errors.NotNullViolation) null value in column "estado" of relation "tbl_pacientes" violates not-null constraint
+DETAIL:  Failing row contains (2, 31238269, 2, TERESA DE JESUS CARDONA SALAZAR, CL 3 #14   52 , CALI, ANTIOQUIA, calle 11 A, 51-09 casa 16 , unidad fuentes de Camino real , etap..., null, null, null, bello, 05088, 3173734749  3206785775  , POS, MEDICINA TLM, Citas médicas Ingreso telemedicina , null, F, 1952-06-11, null, Piso Sur, null).
+
+[SQL: INSERT INTO sch_vitale.tbl_pacientes (id_tipo_identificacion, identificacion, direccion_original, direccion, telefono, zona, piso, plan_salud, tratamiento, id_municipio, nombre, medicamento, fecha_nace, genero, barrio) VALUES (%(id_tipo_identificacio ... 3966 characters truncated ... ipio__13)s, %(nombre__13)s, %(medicamento__13)s, %(fecha_nace__13)s, %(genero__13)s, %(barrio__13)s)]
+[parameters: {'plan_salud__0': 'POS', 'medicamento__0': None, 'direccion__0': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__0': 'calle 11 A, 51-09 casa 16 , unidad fuentes de Camino real , etapa 4,', 'id_tipo_identificacion__0': 2, 'tratamiento__0': 'Citas médicas Ingreso telemedicina ', 'nombre__0': 'TERESA DE JESUS CARDONA SALAZAR', 'genero__0': 'F', 'zona__0': 'MEDICINA TLM', 'barrio__0': 'bello', 'identificacion__0': 31238269, 'id_municipio__0': '05088', 'piso__0': 'Piso Sur', 'telefono__0': '3173734749  3206785775  ', 'fecha_nace__0': '1952-06-11 00:00:00', 'plan_salud__1': 'POS', 'medicamento__1': None, 'direccion__1': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__1': 'Calle 15 # 61A ¿ 16, Apartamento: 101, Torre: 78, Unidad: Pedro Elías Serrano,', 'id_tipo_identificacion__1': 2, 'tratamiento__1': 'Citas médicas Valoración médica control ', 'nombre__1': 'MIRIAN GERLAINE RESTREPO GOMEZ', 'genero__1': 'F', 'zona__1': 'MEDICINA TLM', 'barrio__1': 'bello', 'identificacion__1': 31978968, 'id_municipio__1': '05088', 'piso__1': 'Piso Sur', 'telefono__1': '3156668517  3156668517  ', 'fecha_nace__1': '1968-04-18 00:00:00', 'plan_salud__2': 'POS', 'medicamento__2': None, 'direccion__2': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__2': 'Calle 17 # 47B ¿ 03', 'id_tipo_identificacion__2': 2, 'tratamiento__2': 'Citas médicas Valoración médica control ', 'nombre__2': 'WINIFER CAROLAY TOVAR OSUNA', 'genero__2': 'F', 'zona__2': 'MEDICINA TLM', 'barrio__2': 'bello', 'identificacion__2': 832515, 'id_municipio__2': '05088', 'piso__2': 'Piso Centro', 'telefono__2': '3058787043  3058787043  ', 'fecha_nace__2': '1994-06-11 00:00:00', 'plan_salud__3': 'POS', 'medicamento__3': None, 'direccion__3': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__3': 'CRA 43 # 10-50 APTO:401', 'id_tipo_identificacion__3': 2 ... 110 parameters truncated ... 'identificacion__10': 31216608, 'id_municipio__10': '05088', 'piso__10': 'Piso Norte', 'telefono__10': '3234569088    ', 'fecha_nace__10': '1949-04-24 00:00:00', 'plan_salud__11': 'POS', 'medicamento__11': None, 'direccion__11': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__11': 'CALLE 46A # 1E -21 APTO 301 EDIFICIO DE LADRILLOS', 'id_tipo_identificacion__11': 2, 'tratamiento__11': 'Citas médicas Revision telemedicina ', 'nombre__11': 'DEISY DANIELA GOMEZ GOMEZ', 'genero__11': 'F', 'zona__11': 'MEDICINA TLM', 'barrio__11': 'bello', 'identificacion__11': 1144104481, 'id_municipio__11': '05088', 'piso__11': 'Piso Norte', 'telefono__11': '3186901564  3168695246  ', 'fecha_nace__11': '1998-10-03 00:00:00', 'plan_salud__12': 'POS', 'medicamento__12': None, 'direccion__12': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__12': 'CALLE 23D N #5AN -62 SAN VICENTE APRTAMENTO 503', 'id_tipo_identificacion__12': 2, 'tratamiento__12': 'Citas médicas Valoración médica egreso ', 'nombre__12': 'GERMAN  GARCIA JARAMILLO', 'genero__12': 'M', 'zona__12': 'MEDICINA TLM', 'barrio__12': 'bello', 'identificacion__12': 79482319, 'id_municipio__12': '05088', 'piso__12': 'Piso CHER', 'telefono__12': '3024639494  3174708263  3174708263', 'fecha_nace__12': '1969-02-24 00:00:00', 'plan_salud__13': 'POS', 'medicamento__13': None, 'direccion__13': 'CL 3 #14   52 , CALI, ANTIOQUIA', 'direccion_original__13': 'CALLE 3 # 14 - 52', 'id_tipo_identificacion__13': 2, 'tratamiento__13': 'Citas médicas Valoración médica egreso ', 'nombre__13': 'JUAN CARLOS VIDARTE VICTORIA', 'genero__13': 'M', 'zona__13': 'MEDICINA TLM', 'barrio__13': 'bello', 'identificacion__13': 16692872, 'id_municipio__13': '05088', 'piso__13': 'Piso CHER', 'telefono__13': '3753163  3164814490  ', 'fecha_nace__13': '1963-06-21 00:00:00'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-01-16 11:44:15,439 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:16,469 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:16,923 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:17,752 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:18,166 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:18,935 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:19,394 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:20,251 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:20,731 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:21,589 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:21,948 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:22,820 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:23,262 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:24,087 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:24,568 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:25,388 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:25,891 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:26,767 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:27,172 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:27,978 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:28,459 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:30,057 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:30,514 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:31,216 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:31,726 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:32,441 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:44:32,898 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:44:33,948 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:45:45,486 - ERROR - Error ingresar pacientes upload: too many values to unpack (expected 2)
+2024-01-16 11:47:31,165 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:51:14,207 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:51:59,451 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:58:35,962 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:59:02,078 - ERROR - Could not validate credentials
+2024-01-16 11:59:19,640 - ERROR - Could not validate credentials
+2024-01-16 11:59:27,083 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 11:59:46,962 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:48,250 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:48,749 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:49,503 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:49,944 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:50,644 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:51,123 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:51,887 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:52,377 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:53,084 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:53,643 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:54,332 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:54,769 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:55,555 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:56,041 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:56,790 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:57,326 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:58,091 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:58,522 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 11:59:59,225 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 11:59:59,688 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:00:00,511 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:00:00,934 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:00:02,370 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:00:02,888 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:00:03,707 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:00:04,255 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:00:05,340 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:00:36,638 - ERROR - Error ingresar pacientes upload: can only concatenate str (not "ProgrammingError") to str
+2024-01-16 12:01:49,673 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:01:50,611 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:01:51,084 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:01:52,775 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:01:53,217 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:01:54,073 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:01:54,596 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:01:56,623 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:01:57,081 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:01:57,825 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:01:58,204 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:01:59,040 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:01:59,394 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:00,224 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:00,730 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:01,603 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:02,113 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:02,934 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:03,345 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:04,285 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:04,716 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:05,710 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:06,171 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:07,024 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:07,512 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:08,135 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:02:08,615 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:02:09,705 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:03:38,728 - ERROR - Error ingresar pacientes upload: can only concatenate str (not "ProgrammingError") to str
+2024-01-16 12:03:49,330 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 12:04:09,401 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:10,378 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:10,738 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:11,605 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:12,037 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:12,857 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:13,243 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:14,090 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:14,583 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:15,298 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:15,787 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:16,583 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:16,987 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:17,803 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:18,196 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:20,051 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:20,599 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:21,477 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:21,906 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:22,823 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:23,322 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:24,349 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:24,842 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:25,655 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:26,163 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:26,899 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:04:27,321 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:04:28,461 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:37,887 - ERROR - Error ingresar pacientes upload: can only concatenate str (not "ProgrammingError") to str
+2024-01-16 12:06:41,721 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:42,769 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:43,256 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:44,128 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:44,513 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:45,442 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:45,876 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:46,990 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:47,455 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:48,933 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:49,411 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:50,348 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:50,782 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:52,419 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:52,874 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:53,847 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:54,374 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:55,193 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:55,586 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:57,208 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:57,583 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:58,569 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:06:58,939 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:06:59,669 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:07:00,184 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:07:00,790 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:07:01,182 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:07:02,589 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:11:13,233 - ERROR - Error ingresar pacientes upload: can only concatenate str (not "ProgrammingError") to str
+2024-01-16 12:11:19,274 - ERROR - Could not validate credentials
+2024-01-16 12:11:40,644 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 12:12:34,655 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:35,491 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:35,980 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:36,646 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:37,066 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:37,846 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:38,330 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:39,199 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:39,684 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:40,376 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:40,823 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:41,556 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:41,977 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:42,686 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:43,165 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:43,944 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:44,604 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:45,367 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:45,798 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:46,518 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:46,989 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:47,716 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:48,163 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:48,856 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:49,394 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:50,015 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:12:50,443 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:12:51,326 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:16:37,484 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 12:17:08,881 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:09,713 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:10,214 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:10,966 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:11,381 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:12,089 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:12,549 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:13,314 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:13,807 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:14,660 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:15,151 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:16,489 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:16,937 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:17,617 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:18,085 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:18,846 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:19,425 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:20,165 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:20,548 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:21,340 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:21,790 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:23,045 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:23,472 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:24,192 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:24,667 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:25,344 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:17:25,808 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:17:26,624 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:27,237 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 12:27:47,520 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:48,615 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:49,130 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:50,161 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:50,601 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:51,314 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:51,776 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:52,654 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:53,121 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:53,876 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:54,453 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:55,276 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:55,726 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:56,538 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:57,056 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:57,895 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:58,435 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:27:59,299 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:27:59,721 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:28:01,189 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:28:01,657 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:28:02,559 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:28:03,013 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:28:03,756 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:28:04,263 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:28:05,088 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:28:05,569 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:28:06,647 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:28:14,302 - ERROR - Error ingresar citas upload: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(1)
+
+[SQL: INSERT INTO sch_vitale.tbl_citas (fecha, id_paciente, hora, estado) VALUES (%(fecha__0)s, %(id_paciente__0)s, %(hora__0)s, %(estado__0)s), (%(fecha__1)s, %(id_paciente__1)s, %(hora__1)s, %(estado__1)s), (%(fecha__2)s, %(id_paciente__2)s, %(hora__2)s, ... 635 characters truncated ... s, %(hora__12)s, %(estado__12)s), (%(fecha__13)s, %(id_paciente__13)s, %(hora__13)s, %(estado__13)s)]
+[parameters: {'fecha__0': '2023-10-26 08:00:00.0', 'id_paciente__0': 3, 'estado__0': True, 'hora__0': '2023-10-26', 'fecha__1': '2023-10-26 08:45:00.0', 'id_paciente__1': 3, 'estado__1': True, 'hora__1': '2023-10-26', 'fecha__2': '2023-10-26 09:30:00.0', 'id_paciente__2': 3, 'estado__2': True, 'hora__2': '2023-10-26', 'fecha__3': '2023-10-26 10:15:00.0', 'id_paciente__3': 3, 'estado__3': True, 'hora__3': '2023-10-26', 'fecha__4': '2023-10-26 11:15:00.0', 'id_paciente__4': 3, 'estado__4': True, 'hora__4': '2023-10-26', 'fecha__5': '2023-10-26 12:00:00.0', 'id_paciente__5': 3, 'estado__5': True, 'hora__5': '2023-10-26', 'fecha__6': '2023-10-26 12:45:00.0', 'id_paciente__6': 3, 'estado__6': True, 'hora__6': '2023-10-26', 'fecha__7': '2023-10-26 08:00:00.0', 'id_paciente__7': 3, 'estado__7': True, 'hora__7': '2023-10-26', 'fecha__8': '2023-10-26 08:45:00.0', 'id_paciente__8': 3, 'estado__8': True, 'hora__8': '2023-10-26', 'fecha__9': '2023-10-26 09:30:00.0', 'id_paciente__9': 3, 'estado__9': True, 'hora__9': '2023-10-26', 'fecha__10': '2023-10-26 10:30:00.0', 'id_paciente__10': 3, 'estado__10': True, 'hora__10': '2023-10-26', 'fecha__11': '2023-10-26 11:15:00.0', 'id_paciente__11': 3, 'estado__11': True, 'hora__11': '2023-10-26', 'fecha__12': '2023-10-26 12:15:00.0', 'id_paciente__12': 3, 'estado__12': True, 'hora__12': '2023-10-26', 'fecha__13': '2023-10-26 13:00:00.0', 'id_paciente__13': 3, 'estado__13': True, 'hora__13': '2023-10-26'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-01-16 12:28:14,302 - ERROR - Error ingresar pacientes upload: 
+2024-01-16 12:29:57,553 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:29:58,528 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:29:59,045 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:00,053 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:00,473 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:02,550 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:03,010 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:05,371 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:05,720 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:06,891 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:07,409 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:08,490 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:08,908 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:09,707 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:10,219 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:11,272 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:11,645 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:12,531 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:12,999 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:14,502 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:14,850 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:15,762 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:16,233 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:16,985 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:17,469 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:18,063 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:18,504 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:30:20,165 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:30:51,882 - ERROR - Error ingresar pacientes upload: can only concatenate str (not "ProgrammingError") to str
+2024-01-16 12:31:25,475 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:26,496 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:26,982 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:27,820 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:28,220 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:29,641 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:30,100 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:31,081 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:31,536 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:32,371 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:32,861 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:33,740 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:34,161 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:35,002 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:35,491 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:36,596 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:37,139 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:38,006 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:38,445 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:39,195 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:39,690 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:40,498 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:40,884 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:41,708 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:42,091 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:42,747 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:31:43,206 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 12:31:44,450 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 12:33:25,162 - ERROR - Error ingresar pacientes upload: can only concatenate str (not "ProgrammingError") to str
+2024-01-16 13:59:00,116 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 13:59:34,913 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 14:11:47,815 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 14:12:11,526 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:12,281 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+11A+51+09+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:12,771 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:13,463 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2361A+%C2%BF+16+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:13,892 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:14,614 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+17+%2347B+%C2%BF+03+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:15,142 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:15,890 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+43+%2310+50+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:16,379 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:17,050 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+26B+46B+++29+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:17,509 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:18,221 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+46C+%2349+42+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:18,662 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:19,311 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+39B+%2339+53+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:19,815 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:20,561 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+31A+10A+84+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:21,082 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:21,835 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CR+17+%2313B+20+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:22,260 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:23,023 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+15+%2322B+27+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:23,556 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:24,317 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+49++%2312+40+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:24,809 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:25,485 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+46A+%231E++21+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:26,042 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:26,616 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+23DN+%235AN++62+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:12:27,063 - INFO - Requested https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/find?f=json&text=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&maxLocations=1
+2024-01-16 14:12:27,960 - INFO - Requested https://nominatim.openstreetmap.org/search?q=CL+3+%2314+++52+%2C+CALI%2C+ANTIOQUIA&format=jsonv2&addressdetails=1&limit=1
+2024-01-16 14:20:49,366 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal
+2024-01-16 15:35:49,522 - INFO - El usuario ibio.escobar@arus.com.co accedio a la ruta principal

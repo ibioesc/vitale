@@ -1,0 +1,27 @@
+version: '3'
+services:
+  post_vitale:
+    image: postgresvitale:latest
+    ports:
+      - 5432:5432
+    volumes:
+      - ~/apps/postgres:/var/lib/postgresql/data
+    # environment:
+    #   - POSTGRES_PASSWORD=mysecretpassword
+    #   - POSTGRES_USER=postgres
+    #   - POSTGRES_DB=db_vitale
+    networks:
+      - micros
+
+  backvitale:
+    container_name: backvitalE
+    build: C:\Users\ibio.escobar\Documents\backend
+    restart: always
+    networks:
+      - micros
+
+networks:
+  micros:
+    driver: bridge
+    ipam:
+      driver: default

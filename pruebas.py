@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, MetaData, Table, select ,update,text
+from sqlalchemy import create_engine, MetaData, Table, select ,update,text,insert, exc
 from sqlalchemy.orm import Session
 import psycopg2
 import pandas as pd
@@ -97,95 +97,86 @@ def pr():
 
     except (Exception , TypeError) as err:
         print('004: Error de consulta: '+str(err))
-def consulta_registro(identificacion = None, boleano_consulta =None):
+        
+def consulta_registro(identificacion = None, boleano_consulta = None, usuario = None):
     try:
-        list_resul = []
         metadata = MetaData()
-        nombre_tabla =  Table('tbl_pacientes', metadata, autoload_with=engine)
+        # nombre_tabla =  Table('tbl_pacientes', metadata, autoload_with=motor_sqlalchemy)
+        nombre_tabla =  Table('tbl_pacientes', metadata, autoload_with=engine, schema='sch_vitale')
+        tabla_usuarios =  Table('tbl_usuarios', metadata, autoload_with=engine, schema='sch_vitale')
         campo_deseado = nombre_tabla.c.identificacion  # Reemplaza 'edad' con el nombre real de tu campo
+        campo_email = tabla_usuarios.c.email  # Reemplaza 'edad' con el nombre real de tu campo
         condicion_where = campo_deseado == identificacion
+        condicion_usuarios = campo_email == usuario
         with engine.connect() as connection:
             # Realizar una consulta para seleccionar solo el campo deseado
             consulta = nombre_tabla.select().where(condicion_where)
             consulta_persona = nombre_tabla.select()
+            consulta_usuarios = tabla_usuarios.select().where(condicion_usuarios)
 
             # Ejecutar la consulta y recuperar los resultados
             resultados = connection.execute(consulta).fetchall()
             resultados_persona = connection.execute(consulta_persona).fetchall()
-            for  resul in resultados_persona:
-                list_resul.append({
-                    'Direccion': resul[4],
-                    'Departamento': resul[9],
-                    'Localidad': resul[9],
-                    'Nombre empresa o lugar': resul[2],
-                    '# de contrato': resul[1],
-                    'telefono': resul[11],
-                    'email': '',
-                    'emailCc': '',
-                    'latitud': '',
-                    'longitud': '',
-                    'idCliente': '',
-                    'atributos dinamicos': '',
-                    'Barrio': resul[8],
-                    'Referencia (opcional)': resul[8],
-                    'Tipo de identificación del paciente': resul[3],
-                    'Telefo#2 Paciente': resul[11],
-                    'Telefo#3 Paciente': '',
-                    'Edad': '',
-                    'Fecha nacimiento paciente': resul[18],
-                    'Sexo del paciente': resul[17],
-                    'Plan de salud': resul[13],
-                    'Tratamiento': resul[15],
-                    'Zona Geografica': resul[14],
-                    'Duración de la cita': '30',
-                    'Medico': '',
-                    'Telefono del Medico': '',
-                })
-                
-            columns = ['Direccion',
-                       'Departamento',
-                       'Localidad',
-                       'Nombre empresa o lugar',
-                       '# de contrato','telefono',
-                       'email','emailCc','latitud',
-                       'longitud','idCliente',
-                       'atributos dinamicos',
-                       'Barrio','Referencia (opcional)',
-                       'Tipo de identificación del paciente',
-                       'Telefo#2 Paciente',
-                       'Telefo#3 Paciente',
-                       'Edad',
-                       'Fecha nacimiento paciente',
-                       'Sexo del paciente',
-                       'Plan de salud',
-                       'Tratamiento',
-                       'Zona Geografica',
-                       'Duración de la cita',
-                       'Medico',
-                       'Telefono del Medico'
-                       ]
-            nombre_carpeta =  datetime.datetime.now()
-            nombre_carpeta = nombre_carpeta.strftime("%d-%m-%Y,%H,%M,%S")
-            nombre_carpeta = './documentCSV/'+str(nombre_carpeta)
-            os.mkdir(str(nombre_carpeta))
+            resultados_usuarios = connection.execute(consulta_usuarios).fetchall()
 
-            with open(f'{nombre_carpeta}/puntos.csv', mode='w',encoding="utf-8") as file:
-                writer = csv.DictWriter(file, delimiter=',', fieldnames=columns )
-                writer.writeheader()
-                for course in list_resul:
-                    writer.writerow(course)
+
+
+            
             if   len(resultados) >=1  and boleano_consulta != True:
-                return True, None
+                return True, None,
             elif boleano_consulta:
                 for resultado in resultados:
                     id_usuario = resultado[0]
                 return False, id_usuario
+            elif resultados_usuarios:
+                resultados_usuarios = True
+
             else:
-             return False, None
-    except (Exception , TypeError) as err:
+             return False, None,resultados_persona,resultados_usuarios
+    except Exception as err:
         print('004: Error de consulta: '+str(err))
-        
-        
+        # logging.error(f"Error de consulta registro: {str(err)}")
+        # raise HTTPException(status_code=400,
+        #                     detail={'Error':True,
+        #                             'Message':'Error de consulta registro',
+        #                             'Result':''})
+   
+   
+from sqlalchemy import MetaData, Table
+from sqlalchemy.sql import and_
+
+def consulta_registro(identificacion=None, boleano_consulta=None, usuario=None):
+    try:
+        metadata = MetaData()
+        nombre_tabla = Table('tbl_pacientes', metadata, autoload_with=engine, schema='sch_vitale')
+        tabla_usuarios = Table('tbl_usuarios', metadata, autoload_with=engine, schema='sch_vitale')
+
+        campo_deseado = nombre_tabla.c.identificacion
+        campo_email = tabla_usuarios.c.email
+
+        condicion_where = campo_deseado == identificacion
+        condicion_usuarios = campo_email == usuario
+
+        with engine.connect() as connection:
+            consulta_persona = nombre_tabla.select().where(condicion_where)
+            consulta_usuarios = tabla_usuarios.select().where(condicion_usuarios)
+
+            resultados_persona = connection.execute(consulta_persona).fetchall()
+            resultados_usuarios = connection.execute(consulta_usuarios).fetchall()
+
+            if len(resultados_persona) >= 1 and not boleano_consulta:
+                return True, None
+            elif boleano_consulta:
+                id_usuario = resultados_persona[0][0] if resultados_persona else None
+                return False, id_usuario
+            elif resultados_usuarios:
+                return True, None
+            else:
+                return False, None, resultados_persona, resultados_usuarios
+    except Exception as e:
+        # Manejo de excepciones
+        return False, str(e), None, None
+     
 def update_cita(id_cita :int , estado_cita :str):
     try:
 
@@ -229,9 +220,60 @@ def update_cita(id_cita :int , estado_cita :str):
                 "result":''
                     } 
         return resultados_dic 
+    
+    
+    
+    
+
+def create_usuarios():
+    try:
+        nombre_tabla = 'tbl_usuarios'
+        schemas = 'sch_vitale'
+        metadata = MetaData()
+        tabla = Table(nombre_tabla, metadata, schema=schemas, autoload_with=engine)
+        consulta_insercion = insert(tabla).values(
+            email = 'ibio.escobar@arus.com.coo',
+            nombre ='ibio antonio escobar',
+            estado = True,
+            fecha_conexion = datetime.datetime.now(),
+            conectado = True,)
+        with engine.connect() as connection:
+            connection.execute(consulta_insercion)
+            connection.commit()
+    # Agrega más campos y valores según la estructura de tu tabla
+
+        # cosnulta , bool_consulta  = consulta_registro(identificacion_pacientes, False)
+        # id_usuario = None
+        # if not cosnulta:
+        #     to_sql(name=nombre_tabla,schema=schemas,con=motor_sqlalchemy, index=False, if_exists='append')
+        #     cosnulta, id_usuario= consulta_registro(identificacion_pacientes, True)
+        # conexion.close()
+        return  consulta_insercion
+    except exc.SQLAlchemyError as err:
+        print('001: Error de ingreso pacientes: '+ str(err))
+        # logging.error(f"Error de ingreso pacientes: {str(err)}")
+        # raise HTTPException(status_code=400,
+        #                     detail={'Error':True,
+        #                             'Message':'Error de ingreso pacientes',
+        #                             'Result':''})
         
 
 if __name__ == "__main__":
-    consulta_registro()
+    # consulta_registro(usuario='ibio.escobar@arus.com.co')
     # update_cita(1,"I")
     # pr()
+    create_usuarios()
+    
+    
+# SELECT *
+# FROM tbl_pacientes AS p
+# JOIN tbl_municipios AS m ON p.id_municipio = m.codigo
+# JOIN tbl_departamentos AS d ON m.id_depto = d.codigo
+# JOIN tbl_tipos_identificacion AS i ON p.id_tipo_identificacion = i.ID AS id;
+
+
+# SELECT *
+# FROM tbl_pacientes AS p
+# JOIN tbl_municipios AS m ON p.id_municipio = m.codigo
+# JOIN tbl_departamentos AS d ON m.id_depto = d.codigo
+# JOIN tbl_tipos_identificacion AS ti ON p.id_tipo_identificacion = ti.ID;
